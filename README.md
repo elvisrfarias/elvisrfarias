@@ -1,6 +1,6 @@
 ## Hi, I'm Elvis Farias, eternal apprentice and lover of technology! 🚀
 <div align="center">
-  <a href="https://www.linkedin.com/in/elvisfarias/">
+  <a href="https://www.linkedin.com/in/elvisfarias/ target="_blank">
   <img width="320em" height="180em" src="https://github-readme-stats.vercel.app/api?username=elvisrfarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="260px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisrfarias&layout=compact&langs_count=7&theme=dark"/>
 </div>
