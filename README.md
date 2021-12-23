@@ -1,8 +1,8 @@
 ## Hi, I'm Elvis Farias, eternal apprentice and lover of technology! 🚀
 <div align="center">
   <a href="https://www.linkedin.com/in/elvisfarias/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvisrfarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisrfarias&layout=compact&langs_count=7&theme=dark"/>
+  <img width="290px" height="120em" src="https://github-readme-stats.vercel.app/api?username=elvisrfarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="290px" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisrfarias&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  ## Technologies that I am using and learning the most... 👇🏽
@@ -19,6 +19,8 @@
   <a href="https://www.linkedin.com/in/elvisfarias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/elvisrfariasofc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:elvisrfarias1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+ ##
  
   ![Snake animation](https://github.com/elvisrfarias/elvisrfarias/blob/output/github-contribution-grid-snake.svg)
  
