@@ -1,3 +1,7 @@
+1- 455x177
+
+2- 330x177
+
 ## Hi, I'm Elvis Farias, eternal apprentice and lover of technology! 🚀
 <div align="center">
   <a href="https://www.linkedin.com/in/elvisfarias/ target="_blank">
