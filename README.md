@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/elvisfarias/ target="_blank">
   <img align="center" height="185em" src="https://github-readme-stats.vercel.app/api?username=elvisrfarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisrfarias&layout=compact&langs_count=7&theme=dark"/>
+  <img align="top" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisrfarias&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 ## Technologies that I am using and learning the most... 👇🏽
