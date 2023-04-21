@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤟🏽, I'm Elvis Faria</h1>
 <h3 align="center">I am an eternal learner and technology lover</h3>
 
-- 🔭 I currently work as a junior software developer at [LOG 4.0](http://rasterlog.com.br/)
+- 🔭 I currently work as a junior software developer at [Raster](http://rasterlgr.com.br/).
 
 - 💬 I got to know many cultures and did many things, I believe that the biggest life lesson I have is that there is no free lunch and that consistency in something you love to do is the big secret to success. It may sound cliché, but it's making me a better person every day.
 
