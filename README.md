@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤟🏽, I'm Elvis Faria</h1>
+<h1 align="center">Hi 🤟🏽, I'm Elvis Farias</h1>
 <h3 align="center">I am an eternal learner and technology lover</h3>
 
 - 🔭 I currently work as a junior software developer at [Raster](http://rasterlgr.com.br/).
