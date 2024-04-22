@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🤟🏽, I'm Elvis Farias</h1>
-<h3 align="center">I am an eternal learner and technology lover</h3>
+<h1 align="center">Olá 🤟🏽, sou o Elvis Farias</h1>
+<h3 align="center">Sou um eterno aprendiz e amante da tecnologia</h3>
 
 - 🔭 Atualmente trabalho como desenvolvedor de software júnior na Raster .
 
