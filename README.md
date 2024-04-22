@@ -1,16 +1,16 @@
 <h1 align="center">Hi 🤟🏽, I'm Elvis Farias</h1>
 <h3 align="center">I am an eternal learner and technology lover</h3>
 
-- 🔭 I currently work as a junior software developer at [Raster](http://rasterlgr.com.br/).
+- 🔭 Atualmente trabalho como desenvolvedor de software júnior na Raster .
 
-- 💬 I got to know many cultures and did many things, I believe that the biggest life lesson I have is that there is no free lunch and that consistency in something you love to do is the big secret to success. It may sound cliché, but it's making me a better person every day.
+- 💬 Conheci muitas culturas e fiz muitas coisas, acredito que a maior lição de vida que tenho é que não existe almoço grátis e que a consistência em algo que você adora fazer é o grande segredo do sucesso. Pode parecer clichê, mas está me tornando uma pessoa melhor a cada dia.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elvisfarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvisfarias" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguages e ferramentas:</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
