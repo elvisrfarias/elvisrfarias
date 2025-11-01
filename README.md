@@ -9,7 +9,7 @@ Tenho facilidade em me adaptar a novas tecnologias e ambientes , gosto de desafi
 
 Pra mim, programar vai além do código: é sobre criar algo que gere valor, sempre aprende coisas novas que me fazer evoluir um pouco a cada commit. 💡
 
----
+***
 
 
 <div style="display: flex;">
