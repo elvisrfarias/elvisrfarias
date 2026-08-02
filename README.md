@@ -25,7 +25,7 @@ Estou em constante evolução, estudando novas tecnologias, arquitetura de softw
 ## 💻 Stack Principal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,postgres,mysql,mongodb,docker,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,docker,git,github,linux,vscode" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ Estou em constante evolução, estudando novas tecnologias, arquitetura de softw
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=elvisrfarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=elvisrfarias&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"
   />
 
   <img
