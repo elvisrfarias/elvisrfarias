@@ -1,18 +1,77 @@
-<h1 align="center">Olá 🤟🏽, sou o Elvis Farias</h1>
-<h3 align="center">Sou um eterno aprendiz e amante da tecnologia</h3>
+<h1 align="center">Hey 👋, eu sou o Elvis Farias</h1>
 
-Hey! 👋 Sou o Elvis Farias, desenvolvedor Full Stack que realmente ama o que faz!
+<p align="center">
+  Full Stack Developer • React • Node.js • TypeScript
+</p>
 
-Há mais de 2 anos ajudo na criação e manutenção de aplicações com React, Node.js e TypeScript, sempre focado em escrever código limpo, organizado e com boas práticas.
+<p align="center">
+  Desenvolvendo software com foco em qualidade, escalabilidade e boas práticas.
+</p>
 
-Tenho facilidade em me adaptar a novas tecnologias e ambientes , gosto de desafios e de sair da zona de conforto.
+---
 
-Pra mim, programar vai além do código: é sobre criar algo que gere valor, sempre aprende coisas novas que me fazer evoluir um pouco a cada commit. 💡
+## 🚀 Sobre mim
 
-***
+Sou desenvolvedor Full Stack apaixonado por tecnologia e por resolver problemas através de software.
 
+Atuo no desenvolvimento e manutenção de aplicações utilizando **React**, **Node.js** e **TypeScript**, sempre buscando escrever código limpo, performático e de fácil manutenção.
 
-<div style="display: flex;">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=elvisrfarias&theme=dracula&hide_border=false&include_all_commits=true&show_icons=true&count_private=true&icon_color=777bd9&title_color=777bd9&bg_color=1a181a" />
-  <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisrfarias&layout=compact&langs_count=5&icon_color=777bd9&title_color=777bd9&bg_color=1a181a&text_color=FFFF" />
-</div>
+Acredito que um bom desenvolvedor vai além de entregar funcionalidades: ele entende o problema, comunica bem, colabora com o time e constrói soluções que realmente geram valor.
+
+Estou em constante evolução, estudando novas tecnologias, arquitetura de software, boas práticas e engenharia de software para me tornar um profissional cada vez mais completo.
+
+---
+
+## 💻 Stack Principal
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,postgres,mysql,mongodb,docker,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=elvisrfarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisrfarias&layout=compact&theme=dracula&hide_border=true"
+  />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- Arquitetura de Software
+- Clean Architecture
+- SOLID
+- Design Patterns
+- Testes Automatizados
+- Docker
+- Engenharia de Software
+
+---
+
+## 🎯 Objetivo
+
+Construir software de alta qualidade, evoluir constantemente como engenheiro de software e participar de projetos que tenham impacto real para usuários e negócios.
+
+---
+
+## 📫 Contato
+
+<p>
+<a href="https://www.linkedin.com/in/elvisrfarias">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
