@@ -30,22 +30,6 @@ Estou em constante evolução, estudando novas tecnologias, arquitetura de softw
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=elvisrfarias&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisrfarias&layout=compact&theme=dracula&hide_border=true"
-  />
-</p>
-
----
-
 ## 📚 Atualmente estudando
 
 - Arquitetura de Software
